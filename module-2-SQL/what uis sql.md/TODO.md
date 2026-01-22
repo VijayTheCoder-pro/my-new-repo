@@ -1,0 +1,5 @@
+- [x] Correct all typos and grammar errors in what_is_sql.md
+- [x] Add proper Markdown headings (# ## ###)
+- [x] Format lists using - for unordered lists
+- [x] Format SQL queries and examples as code blocks with ```sql
+- [x] Ensure consistent capitalization and structure
